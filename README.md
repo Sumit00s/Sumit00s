@@ -19,49 +19,6 @@
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages:**  
-`JavaScript` `TypeScript` `C++` `PHP` `Python` `SQL`
-
-**Frontend:**  
-`React` `Next.js` `Tailwind CSS` `shadcn/ui` `Radix UI`
-
-**Backend & DB:**  
-`Node.js` `Express` `Supabase` `PostgreSQL` `MongoDB` `Drizzle ORM` `NeonDB`
-
-**AI & LLMs:**  
-`Gemini API` `OpenAI (ChatGPT)` `Claude` `DeepSeek`
-
-**Auth & Hosting:**  
-`Clerk` `Vercel` `Firebase` `Netlify`
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sumit00s&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit00s&layout=compact&theme=radical" height="165"/>
-</p>
-
----
-
-## 🚀 Highlight Projects
-
-### 🔹 [AceAI – AI-powered Mock Interview App](https://github.com/Sumit00s/AceAi)
-Practice mock interviews with AI-generated questions (Gemini), real-time feedback, and performance tracking.
-
-### 🔹 [Astrai – Multi-AI Research Assistant](https://github.com/Sumit00s/astra-ai)
-Search, summarize, and compare content using Gemini, ChatGPT, Claude, and more – all in one place.
-
-### 🔹 [Opinion – Anonymous Feedback Platform](https://dyp-opinions.vercel.app/)
-Built for D.Y. Patil students to anonymously share feedback with over 2.1k views in 3 days and 8.6k+ API hits.
-
----
-
-## 📫 Connect with Me
-
 <p>
   <a href="https://www.linkedin.com/in/sumit-sonawane-b63b9b306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
